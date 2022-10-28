@@ -1,7 +1,7 @@
 # Ex11-DCGAN_New_Image
 AIFFEL Exploration Project, CIFAR10 Image Creation
 
-파일목록
+List of Files
 1. generated_samples : Base project sample file directory
 2. generated_samples2 : Optional project sample file directory
 3. gif_file : Base project GIF file directory
